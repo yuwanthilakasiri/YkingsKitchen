@@ -1,0 +1,46 @@
+body {
+	margin: 0px;
+	background-image: url(minimalism-1583144718736-5673.jpg);
+}
+
+.container{
+	display:inline-flex;
+	flex-wrap: wrap;
+	justify-content: center;
+
+}
+
+h1{
+	font-family: fantasy;
+	text-transform: uppercase;
+	text-align: center;
+	border-bottom: 3px solid red;
+	border-right: 3px solid red;
+	border-left: 3px solid red;
+	width: 700px;
+	-ms-box-shadow:4px 4px 5px black;
+	box-shadow: 4px 4px 4px black;
+	margin-top: 0px;
+	margin-right: -300px;
+	margin-left: 400px;
+
+}
+
+img {
+
+	width: 450px;
+	height: 300px;
+	margin: 1px;
+	transition: all 1s;
+}
+
+img:hover {
+	transform: scale(1.1);
+}
+
+.btn-info{
+	margin-right: 8800px;
+	margin-bottom: 50px;
+	margin-left: 3px;
+	margin-top: -40px;
+}

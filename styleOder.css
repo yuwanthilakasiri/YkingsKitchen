@@ -1,0 +1,36 @@
+/*selector{
+	property:value;
+}*/
+*{
+	text-align: center;
+}
+body {
+
+	background-image: url(minimalism-1583144718736-5673.jpg);
+	background-size: cover;
+	
+}
+
+h1{
+	font-family: fantasy;
+	text-transform: uppercase;
+	text-align: center;
+	border-bottom: 3px solid red;
+	border-right: 3px solid red;
+	border-left: 3px solid red;
+	width: 700px;
+	-ms-box-shadow:4px 4px 5px black;
+	box-shadow: 4px 4px 4px black;
+	margin-top: 0px;
+	margin-right: -300px;
+	margin-left: 400px;
+}
+
+form{
+	color: darkblue;
+	font-family: 'Hind Madurai', sans-serif;
+}
+
+.submit {
+
+}

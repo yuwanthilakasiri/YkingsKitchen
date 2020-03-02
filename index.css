@@ -1,0 +1,109 @@
+*{
+
+	flex-wrap: wrap;
+}
+
+body{
+	
+	background-image: url(minimalism-1583144718736-5673.jpg);
+}
+
+h4{
+	text-align: center;
+	font-family: 'Spartan' , 'Poppins' ; 
+	font-weight: bold;
+	text-transform: uppercase;
+		margin-top: 60px;
+}
+ h5{
+ 	text-align: center;
+	font-family: 'Spartan' , 'Poppins' ; 
+	margin-top: 50px;
+	font-weight: bold;
+	font-size: 10%;
+	margin-bottom: 100px;
+
+  }
+
+.email{ 
+ 	text-align: center;
+
+
+
+
+ }
+
+.logo {
+	width: 250px;
+	height: 200px;
+	margin-top: -180px;
+	margin-bottom: 400px;
+
+}
+
+#call-btn > a {
+    font-size: 1.5em;
+    display: block;
+    margin: 0 30px;
+    padding: 5px;
+    border: 2px solid #fff;
+    background-color: #f6b319;
+    color: #951c49;
+    margin-bottom: -90px;
+    margin-top: 150px;
+  }
+
+.carousel {
+	
+	width: 1200px;
+	height: 400px;
+	margin-top: -150px;
+	margin-right: -100px;
+	margin-left: 200px;
+	margin-top: 20px;
+
+}
+
+.d-block {
+	width: 1200px;
+	height: 500px;
+}
+
+.navbar{
+	margin-top: -350px;
+
+}
+
+.panel-footer{
+	margin-left: 80px;
+	margin-top: 310px;
+}
+
+
+.panel-footer {
+  margin-top: 300px;
+  padding-top: 10px;
+  padding-bottom: 30px;
+  background-color: #f6b319;
+  border-top: 0;
+}
+.panel-footer div.row {
+  margin-bottom: 35px;
+}
+#hours, #address {
+  line-height: 2;
+}
+#hours > span, #address > span {
+  font-size: 1.3em;
+}
+#address p {
+  color: black;
+  font-size: .8em;
+  line-height: 1.8;
+}
+#testimonials {
+  font-style: italic;
+}
+#testimonials p:nth-child(2) {
+  margin-top: 25px;
+}
